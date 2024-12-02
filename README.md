@@ -30,4 +30,3 @@ Follow the steps below to set up the project locally.
 - Python 3.7 or later
 - Git
 - Anaconda or Python virtual environment (optional, but recommended)
-
