@@ -17,8 +17,7 @@ This project includes a FastAPI-based web application that allows users to input
 
 - **FastAPI**: FastAPI for building the web application.
 - **Scikit-learn**: For model training, hyperparameter tuning, and evaluation.
-- **XGBoost, CatBoost, Random Forest**: For machine learning models.
-- **Pandas**: For data manipulation and preparation.
+- **Pandas,matplotlib and seaborn**: For data manipulation ,preparation and Visualization.
 - **HTML/CSS**: For the frontend interface.
 
 ## Installation Instructions
